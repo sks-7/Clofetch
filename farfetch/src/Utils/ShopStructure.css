@@ -1,0 +1,57 @@
+.Filter_Selectr{
+    padding: 10px;
+    /* margin: auto; */
+    /* width: 50%; */
+}
+
+#addToBag{
+    width: 20rem;
+    height: 3rem;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: #0e0ead;
+    color: white;
+    border-right: none;
+}
+#shipbutton{
+    font-size: 25px;
+    width: 30rem;
+    display: block;
+    margin-top: 20px;
+    height: 3rem;
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.DataCard{
+    display:grid;
+    margin-top:50px;
+    grid-template-columns:repeat(3,1fr);
+}
+.SinglePageFlex{
+    gap: 100px;
+    display: flex;
+}
+
+
+
+@media only screen and (max-width: 640px) {
+
+.DataCard{
+    display: grid;
+grid-template-columns: repeat(2,1fr);
+padding: 20px;
+}
+.SinglePageFlex{
+    gap: 100px;
+    display: block;
+}
+
+}
+
+@media only screen and (max-width: 400px) {
+    .DataCard{
+        display: grid;
+    grid-template-columns: repeat(1,1fr);
+    }
+}
