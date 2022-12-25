@@ -11,7 +11,7 @@ This was a collaborative project made by 4 members Executed in 4 days.
 ## Our Project is not connected with database orbackend server just UI project.
 
 
-  Deploy Link -Netlify: https://farfetch-8hthowlmt-masum-raja.vercel.app/
+
 ---
 ## Tech Stack Used : -
 - #### Languages
