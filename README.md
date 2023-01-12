@@ -8,10 +8,10 @@ This was a collaborative project made by 4 members Executed in 4 days.
 3) Masum Raja
 4)  Ashutosh Raj
 
-### Our Project is not  connected with database or backend server just UI project.We Build our own data and useing Json-server for geting all Opration.
-----
+## Our Project is not connected with database orbackend server just UI project.
 
-  Deploy Link -: https://farfetch-henna.vercel.app/
+
+
 ---
 ## Tech Stack Used : -
 - #### Languages
@@ -45,5 +45,3 @@ This was a collaborative project made by 4 members Executed in 4 days.
 farfetch-8hthowlmt-masum-raja.vercel.appfarfetch-8hthowlmt-masum-raja.vercel.app
 FarFetch
 Web site created using create-react-app
-
-
